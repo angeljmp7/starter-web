@@ -16,8 +16,5 @@ Please for this repository and the issue Pull Requests for review.
 
 ## Some more headings
 
-<<<<<<< HEAD
-=======
 ## Copyright Notice 
 Git.Training
->>>>>>> add-copyright
