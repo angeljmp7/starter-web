@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## Some more headings
+
+## Copyright Notice 
+Git.Training
