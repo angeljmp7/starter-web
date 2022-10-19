@@ -10,6 +10,9 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+Please for this repository and the issue Pull Requests for review.  
+
 ## Deployment
 
 ## Some more headings
+
